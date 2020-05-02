@@ -1,2 +1,4 @@
-# Codes
-Competitive Programming - All difficulty levels
+# Fundamentals
+
+This branch contains codes for Fundamental Questions for logic building in Competitive Programming.
+All codes are in Java.
